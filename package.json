@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/menu-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warmmark/control-project-study-1.git"
+  },
+  "author": "warmmark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warmmark/control-project-study-1/issues"
+  },
+  "homepage": "https://github.com/warmmark/control-project-study-1#readme"
+}
