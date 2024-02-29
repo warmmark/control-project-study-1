@@ -1,3 +1,6 @@
+##### Maintainability:
+[![Maintainability](https://api.codeclimate.com/v1/badges/546eb6740fa9b70c8bb5/maintainability)](https://codeclimate.com/github/warmmark/control-project-study-1/maintainability)
+
 # Игры разума (JavaScript)
 
 «Игры разума» — пять простых математических консольных игр. Три правильных ответа подряд — и победа у вас в руках. Неправильный ответ завершает игру, но не отчаивайтесь, вы всегда можете попробовать снова.
