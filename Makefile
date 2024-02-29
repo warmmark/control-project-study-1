@@ -10,6 +10,9 @@ brain-games:
 brain-scm:
 	node bin/brain-scm.js
 
+brain-progression:
+	node bin/brain-progression.js
+
 publish:
 	npm publish --dry-run
 
