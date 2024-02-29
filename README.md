@@ -15,6 +15,18 @@
 $ sudo npm link 
 ```
 
+## Меню
+
+#### Запуск
+
+```
+$ menu-game
+```  
+
+#### Пример
+
+[![asciicast](https://asciinema.org/a/67pcaGuURu9H7u2xQtvSz7aM6.svg)](https://asciinema.org/a/67pcaGuURu9H7u2xQtvSz7aM6)
+
 ## Игра: «НОК»
 
 Правила: показывается три случайных числа. Необходимо вычислить наименьшее общее кратное этих чисел.
