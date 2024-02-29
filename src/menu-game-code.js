@@ -1,3 +1,3 @@
 export default function testChoice() {
-    console.log('Choose the game!');
+  console.log('Choose the game!');
 }
