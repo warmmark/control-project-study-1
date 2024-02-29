@@ -7,6 +7,9 @@ menu-game:
 brain-games:
 	node bin/brain-games.js
 
+brain-scm:
+	node bin/brain-scm.js
+
 publish:
 	npm publish --dry-run
 
