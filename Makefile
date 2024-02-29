@@ -1,5 +1,8 @@
 install:
 	npm ci
 
-menu-games:
-	node bin/menu-games.js
+menu-game:
+	node bin/menu-game.js
+
+publish:
+	npm publish --dry-run
