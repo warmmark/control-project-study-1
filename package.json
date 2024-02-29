@@ -16,5 +16,8 @@
     "url": "https://github.com/warmmark/control-project-study-1/issues"
   },
   "homepage": "https://github.com/warmmark/control-project-study-1#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
