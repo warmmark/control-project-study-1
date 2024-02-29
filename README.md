@@ -27,7 +27,7 @@ $ brain-scm
 
 #### Пример
 
-
+[![asciicast](https://asciinema.org/a/aDPZe4S5MSz0k0KDJTZHSvKIN.svg)](https://asciinema.org/a/aDPZe4S5MSz0k0KDJTZHSvKIN)
 
 ## Игра: «Геометрическая прогрессия»
 
