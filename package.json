@@ -4,7 +4,7 @@
   "description": "",
   "main": "bin/menu-games.js",
   "bin": {
-    "menu-game": "bin/menu-games.js",
+    "menu-game": "bin/menu-game.js",
     "brain-games": "bin/brain-games.js"
   },
   "scripts": {
