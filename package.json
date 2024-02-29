@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "bin/menu-games.js",
+  "bin": {
+    "brain-games": "bin/menu-game.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
